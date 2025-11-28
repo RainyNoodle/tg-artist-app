@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://RainyNoodle.github.io/tg-artist-app",
+  "homepage": "https://rainynoodle.github.io/tg-artist-app",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",
