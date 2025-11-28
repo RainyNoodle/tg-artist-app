@@ -6,8 +6,6 @@ import "./IndexPage.css"
 
 import testImg from '../../../assets/testImg.jpg';
 
-// const cellsTexts = ['Chat Settings', 'Data and Storage', 'Devices'];
-
 export const IndexPage: FC = () => {
   return (
     <Page back={false}>
